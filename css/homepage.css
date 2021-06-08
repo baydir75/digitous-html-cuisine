@@ -1,0 +1,48 @@
+/* Header */
+
+header {
+    background-image: url("../img/header.jpg");
+    
+}
+
+.header-background {
+    background-color: black;
+    opacity: 0.8;
+}
+
+hr{
+    height: 3px;
+    background-color: white;
+    margin: 0px;
+}
+
+header h3 {
+    color: white;
+    margin-left: 10px;
+    
+}
+
+.logo {
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1, h3 {
+    font-family: 'Courgette', cursive;
+}
+
+.menu-header {
+    margin-right: 15px;
+}
+
+.menu-header a {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* Fin Header */
+

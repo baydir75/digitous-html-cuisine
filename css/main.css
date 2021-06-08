@@ -1,0 +1,19 @@
+.flex-one h2 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.flex-one img {
+    height: 150px;
+    
+    
+}
+
+.flex-one .column {
+    
+}
+
+/* .flex {
+    display: flex;
+} */
