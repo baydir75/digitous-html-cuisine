@@ -19,7 +19,6 @@ hr{
 header h3 {
     color: white;
     margin-left: 10px;
-
 }
 
 .logo {
@@ -33,6 +32,12 @@ header h3 {
 
 .logo img {
     width: 5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1, h3 {
+    font-family: 'Courgette', cursive;
 }
 
 .menu-header {
@@ -44,5 +49,3 @@ header h3 {
     text-decoration: none;
 }
 
-
-/* Fin Header */
