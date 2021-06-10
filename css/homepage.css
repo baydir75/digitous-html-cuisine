@@ -38,10 +38,22 @@
 }
 
 
-/*   @media query        */
+@media screen and (max-width: 768px){
+    .my-container-article {
+        display: flex;
+        flex-direction: column;
+    }
 
-@media (max-width: 991.98px){
-    header {
+    .my-container-article img {
+        width: 100%;
+        height: auto;
+    }
 
+}
+
+@media  screen and (max-width:426px) {
+    .my-paragraph {
+        flex-direction: column;
+        text-align: center;
     }
 }
