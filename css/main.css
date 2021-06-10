@@ -1,3 +1,82 @@
+header {
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+}
+
+.menu-header a {
+    padding: 10px;
+}
+
+.header-background {
+    background-color: black;
+    opacity: 0.8;
+}
+
+hr{
+    height: 3px;
+    background-color: white;
+    margin: 0px;
+}
+
+header h3 {
+    color: white;
+    margin-left: 10px;
+}
+
+.logo {
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+    padding-top: 5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 5rem;
+}
+
+.logo img {
+    width: 5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.menu-header {
+    margin-right: 15px;
+}
+
+.menu-header a {
+    color: white;
+    text-decoration: none;
+}
+
+.my-contact {
+    padding: 0px;
+    text-align: left;
+    font-family: 'Courgette', cursive;
+    
+}
+
+.toggle {
+    text-align: end;
+}
+
+.my-address {
+    padding-left: 70px;
+}
+
+.my-address h5 {
+    font-family: 'Courgette', cursive;
+
+}
+
+.bg-dark h3 a {
+    color: white;
+}
+
+
+
+
 .row .col-md-4 img {
     height: 150px;
     
@@ -6,6 +85,13 @@
 h4 {
     font-family: 'oswald' cursive;
     text-align: center;
+}
+
+.my-contact {
+    padding: 0px;
+    text-align: left;
+    font-family: 'Courgette', cursive;
+    
 }
 
 h5 {
